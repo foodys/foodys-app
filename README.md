@@ -1,6 +1,6 @@
 # foodys-app
 
-## about
+## About
 deployed prototype for foodys, an online recipes sharing community
 
 https://foodys-app.herokuapp.com/
