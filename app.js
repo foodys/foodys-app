@@ -35,7 +35,7 @@ app.get('/api/recipes', (req, res) => {
     const foodysData = {};
     axios({
       method: 'get',
-      url: "https://foodys-api.herokuapp.com/recipes"
+      url: "https://foodys-api.herokuapp.com/api/recipes"
     })
       .then((response) => {
         foodysData.recipes = response.data
@@ -59,7 +59,7 @@ var recipesPostHandler = (req, res) => {
   axios({
     method: 'post',
     data: input,
-    url: "https://foodys-api.herokuapp.com/recipes"
+    url: "https://foodys-api.herokuapp.com/api/recipes"
 
   })
     .then(() => res.end())
