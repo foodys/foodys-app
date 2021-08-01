@@ -1,7 +1,7 @@
 # foodys-app
 
 ## About
-deployed prototype for foodys, an online recipes sharing community
+deployed prototype for foodys, an online community for food lovers to search and share their recipes.
 
 https://foodys-app.herokuapp.com/
 
