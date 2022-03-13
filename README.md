@@ -5,10 +5,6 @@ deployed prototype for foodys, an online community for food lovers to search and
 
 https://foodys-app.herokuapp.com/
 
-## Related Projects
-  - https://github.com/foodys/foodys-client
-  - https://github.com/foodys/foodys-api
-
 ## Bulit with
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
